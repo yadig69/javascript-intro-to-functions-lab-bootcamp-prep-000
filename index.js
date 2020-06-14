@@ -29,4 +29,6 @@ function sayHiToGrandma(string) {
   }
 }
 
-console.log(lowercase)
+console.log(string.toLowerCase())
+console.log(string.toUpperCase())
+console.log(hello)
