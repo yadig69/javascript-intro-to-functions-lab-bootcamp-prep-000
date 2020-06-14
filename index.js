@@ -29,5 +29,4 @@ function sayHiToGrandma(string) {
 }
 
 sayHiToGrandma("hello")
-console.log(string.toUpperCase())
-console.log(hello)
+
